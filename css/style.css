@@ -105,7 +105,7 @@ body::before {
   background-size: 180% 180%;
   filter: blur(90px) saturate(130%);
   opacity: 0.65;
-  animation: blobDrift 10s ease-in-out infinite alternate;
+  animation: none;
 }
 
 @keyframes blobDrift {
